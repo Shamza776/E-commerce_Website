@@ -34,5 +34,26 @@ header{
   transition : all .42s ease;
 }
 .navmenu a:hover{
-    color: brown;
+    color: #EE1C37;
+}
+.nav-icon{
+    dispaly: flex;
+    align-items: center;
+}
+.nav-icon i{
+   margin-right: 20px; 
+   color: #2c2c2c ;
+   font-size: 28px;
+   font-weight: 500;
+   transform: all 42s ease;
+}
+.nav-icon i:hover {
+    transform: scale(1.5);
+    color: #2c2c2c
+}
+#menu-icon{
+    font-size: 38px;
+    color: #2c2c2c;
+    font-weight: 500;
+    cursor:pointer;
 }
