@@ -42,7 +42,7 @@ header{
     color: #EE1C37;
 }
 .nav-icon{
-    dispaly: flex;
+    display: flex;
     align-items: center;
 }
 .nav-icon i{
